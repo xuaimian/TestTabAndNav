@@ -1,0 +1,3 @@
+target 'Test' do
+pod 'MJExtension', '~> 3.0.15.1'
+end
